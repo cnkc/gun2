@@ -14,6 +14,7 @@
 		B300D9D31C79C2A7003834E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B300D9D11C79C2A7003834E4 /* LaunchScreen.storyboard */; };
 		B300D9DE1C79C2A7003834E4 /* Gun2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B300D9DD1C79C2A7003834E4 /* Gun2Tests.swift */; };
 		B300D9E91C79C2A7003834E4 /* Gun2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B300D9E81C79C2A7003834E4 /* Gun2UITests.swift */; };
+		B300D9F71C79D860003834E4 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B300D9F61C79D860003834E4 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B300D9E41C79C2A7003834E4 /* Gun2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Gun2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B300D9E81C79C2A7003834E4 /* Gun2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gun2UITests.swift; sourceTree = "<group>"; };
 		B300D9EA1C79C2A7003834E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B300D9F61C79D860003834E4 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				B300D9C81C79C2A7003834E4 /* AppDelegate.swift */,
 				B300D9CA1C79C2A7003834E4 /* ViewController.swift */,
 				B300D9CC1C79C2A7003834E4 /* Main.storyboard */,
+				B300D9F61C79D860003834E4 /* SecondViewController.swift */,
 				B300D9CF1C79C2A7003834E4 /* Assets.xcassets */,
 				B300D9D11C79C2A7003834E4 /* LaunchScreen.storyboard */,
 				B300D9D41C79C2A7003834E4 /* Info.plist */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B300D9F71C79D860003834E4 /* SecondViewController.swift in Sources */,
 				B300D9CB1C79C2A7003834E4 /* ViewController.swift in Sources */,
 				B300D9C91C79C2A7003834E4 /* AppDelegate.swift in Sources */,
 			);
